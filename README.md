@@ -1,7 +1,4 @@
-
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
-# Clima
+# clima
 
 ## Our Goal
 
