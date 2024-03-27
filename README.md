@@ -1,4 +1,4 @@
-# clima
+# clima-app
 
 ## Our Goal
 
