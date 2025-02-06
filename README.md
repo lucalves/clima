@@ -24,6 +24,7 @@ By the end of the module, you will have made a beautiful, dark-mode enabled weat
 * Learn to use Core Location to get the current location from the phone GPS. 
 
 ### Condition Codes
+
 ```
 switch conditionID {
         case 200...232:
